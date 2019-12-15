@@ -1,0 +1,8 @@
+1. get list of devices
+	ls /media/$USER/
+2. identify source device 
+3. identify target device
+4. identify target path
+5. create target path 
+6. identify image name
+7. apply above to dc3dd script
